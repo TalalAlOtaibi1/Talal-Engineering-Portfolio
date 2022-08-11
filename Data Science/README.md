@@ -1,1 +1,3 @@
-Austin 311: Regression & Classification model regarding 311 calls in Austin.
+Austin 311: Classification model to predict if a call will be resolved. Regression model to find mean time to case resolution
+
+
