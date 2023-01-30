@@ -1,1 +1,1 @@
-A rough overview of the first senior design project I worked on with others.
+A rough overview of the first senior design project (Design Methodology Class) I worked on with others.
